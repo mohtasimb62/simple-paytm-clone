@@ -1,3 +1,3 @@
 export function Signup() {
-    <h1>SIGNUP NOW</h1>
+    return <h1>SIGNUP NOW</h1>
 }
